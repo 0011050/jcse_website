@@ -260,7 +260,7 @@
     height: 100%;
     object-fit: cover;
     opacity: 0.5;
-    animation: scale 25s;
+    animation: scale 5s;
   }
   
   @keyframes scale {
